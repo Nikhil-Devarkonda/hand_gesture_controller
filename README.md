@@ -20,9 +20,9 @@ python index.py
 ```
 
 # Requirements 
-
-1. Operating System : Windows 10/11+
-2. Hardware : Camera
+- Python 9.+
+- Windows 10/11+
+- Camera 0.5+ MP 
 
 
 
