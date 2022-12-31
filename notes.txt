@@ -1,0 +1,6 @@
+pyautogui.size() -> Screen Size
+
+x, y = pyautogui.position() -> Mouse position
+
+
+pip freeze > requirements. txt
